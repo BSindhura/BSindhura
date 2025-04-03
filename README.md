@@ -7,8 +7,7 @@
 </a>
 <a href="https://www.linkedin.com/in/sindhura-battula-864173200/" target="_blank">
     <img src="https://github.com/BSindhura/BSindhura/blob/main/1743709660426.png" width="100" height="auto" />
-</a>
-<img src="https://github.com/BSindhura/BSindhura/blob/main/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f73616976656e6b617439383f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c.png" width="55" height="auto"  />
+</a> <img src="https://github.com/BSindhura/BSindhura/blob/main/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f73616976656e6b617439383f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c.png" width="100" height="auto"  />
 
 
 ## More about Me
