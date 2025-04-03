@@ -5,9 +5,10 @@
 <a href="mailto:sindhurab0@gmail.com">
     <img src="https://github.com/BSindhura/BSindhura/blob/main/3b078d04-8aa7-4fb4-b46b-1f25d5df47f8.png" width="250" height="auto">
 </a>
-<a href="https://github.com/BSindhura/BSindhura/blob/main/1743709660426.png">
+<a href="https://www.linkedin.com/in/sindhura-battula-864173200/" target="_blank">
     <img src="https://github.com/BSindhura/BSindhura/blob/main/1743709660426.png" width="100" height="auto" />
 </a>
+
 
 
 ## More about Me
