@@ -1,7 +1,8 @@
 ### Hi, Naga Sindhura Battula here
 ---
 
-### *Java Backend Developer*
+### *Java Backend Developer*![Animated Software Engineer Image](https://github.com/BSindhura/BSindhura/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif)
+
 
 
 ## More about Me
