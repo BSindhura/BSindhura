@@ -16,7 +16,7 @@ I'm currently focusing on improving my skills in **cloud computing**, **DevOps**
 - [Project 3](https://github.com/BSindhura/practice-java-code-samples): A core java sample code
 
 ### 📫 Get in Touch:
-- [LinkedIn](www.linkedin.com/in/sindhura-battula-864173200)
+- [LinkedIn](https://www.linkedin.com/in/sindhura-battula-864173200/)
 - Email: sindhurab0@gmail.com
 
 ---
