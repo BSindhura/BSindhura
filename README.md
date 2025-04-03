@@ -2,7 +2,7 @@
 
 *Java Backend developer* <!-- Resize the image with width --><img src="https://github.com/BSindhura/BSindhura/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" width="35" height="auto"  />
 
-[![Gmail](https://github.com/BSindhura/BSindhura/blob/main/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7261706f6c2e73766b40676d61696c2e636f6d2d726564.svg)](mailto:sindhurab0@gmail.com)
+[![Gmail](https://github.com/BSindhura/BSindhura/blob/main/3b078d04-8aa7-4fb4-b46b-1f25d5df47f8.png)](mailto:sindhurab0@gmail.com)
 
 
 
