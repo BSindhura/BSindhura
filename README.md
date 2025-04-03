@@ -31,10 +31,7 @@ I'm a **Java Backend Developer** with expertise in **Spring Boot**, **Microservi
 - **Databases:** SQL, MySQL, MongoDB, PostgreSQL
 - **Miscellaneous:** AWS, Git, Kafka, Docker
 - **Development Tools:** Eclipse, IntelliJ, NetBeans, MS Visio, Apache Maven, Gradle, Log4J, JIRA, Bugzilla.
-
-![image](https://github.com/user-attachments/assets/3328c5bd-aff7-4777-baea-aff132ccce02)
-
-
+  
 ### 📚 Featured Projects:
 - [Project 1](https://github.com/BSindhura/bear_mama_admin): A backend application built with Spring Boot.
 - [Project 2](https://github.com/BSindhura/bear_mama_admin): A microservice architecture with Docker and Kubernetes.
