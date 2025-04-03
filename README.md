@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Naga Sindhura Battula
+## 👋 Hi, Naga Sindhura Battula here
 
-## About Me
+## More about Me
 I'm a **Java Backend Developer** with expertise in **Spring Boot**, **Microservices**, and **Database Design**. I love to build scalable applications and solve complex problems.
 
 🔧 Technologies & Tools:
