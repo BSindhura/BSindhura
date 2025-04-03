@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Naga Sindhura Battula
 
-<!--
-**BSindhura/BSindhura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Java Backend Developer** with expertise in **Spring Boot**, **Microservices**, and **Database Design**. I love to build scalable applications and solve complex problems.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools:
+- Java | Spring Boot | Hibernate | PostgreSQL | RESTful APIs | AWS | GIT | Agile
+- Docker | Kubernetes | Maven | Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Focus:  
+I'm currently focusing on improving my skills in **cloud computing**, **DevOps**, **frontend**, and **Docker**.
+
+### 📚 Featured Projects:
+- [Project 1](https://github.com/BSindhura/bear_mama_admin): A backend application built with Spring Boot.
+- [Project 2](https://github.com/BSindhura/bear_mama_admin): A microservice architecture with Docker and Kubernetes.
+- [Project 3](https://github.com/BSindhura/practice-java-code-samples): A core java sample code
+
+### 📫 Get in Touch:
+- [LinkedIn](www.linkedin.com/in/sindhura-battula-864173200)
+- Email: sindhurab0@gmail.com
+
+---
+
+**Connect with me** for collaboration, open-source contributions, or just to chat about tech!
+
