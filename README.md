@@ -6,7 +6,7 @@
     <img src="https://github.com/BSindhura/BSindhura/blob/main/3b078d04-8aa7-4fb4-b46b-1f25d5df47f8.png" width="250" height="auto">
 </a>
 <a href="https://github.com/BSindhura/BSindhura/blob/main/1743709660426.png">
-    <img src="https://github.com/BSindhura/BSindhura/blob/main/1743709660426.png" width="200" height="auto" />
+    <img src="https://github.com/BSindhura/BSindhura/blob/main/1743709660426.png" width="100" height="auto" />
 </a>
 
 
