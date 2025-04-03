@@ -11,8 +11,8 @@
 <a href="https://github.com/BSindhura" target="_blank">
         <img src="https://github.com/BSindhura/BSindhura/blob/main/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f73616976656e6b617439383f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c.png" width="100" height="auto" />
     </a>
+    
 ---
-
 ## More about Me
 I'm a **Java Backend Developer** with expertise in **Spring Boot**, **Microservices**, and **Database Design**. I love to build scalable applications and solve complex problems.
 
