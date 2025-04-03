@@ -16,12 +16,24 @@
 ## More about Me
 I'm a **Java Backend Developer** with expertise in **Spring Boot**, **Microservices**, and **Database Design**. I love to build scalable applications and solve complex problems.
 
-🔧 Technologies & Tools:
-- Java | Spring Boot | Hibernate | PostgreSQL | RESTful APIs | AWS | GIT | Agile
-- Docker | Kubernetes | Maven | Jenkins
+## Education:
+- **Degree:** Master of Science
+- **Major:** Computer Science
+- **University:** Northwestern University
 
-🎯 Current Focus:  
-I'm currently focusing on improving my skills in **cloud computing**, **DevOps**, **frontend**, and **Docker**.
+## Ask Me About:
+- Full-stack Development
+- Backend Development
+
+## Technologies:
+- **Backend Development:** Java (8+), J2EE, Spring Boot, Hibernate, Spring MVC, Spring Batch, JPA, EJB, RESTful/SOAP APIs.
+- **Frontend:** Angular, JavaScript, HTML5, CSS3, JSP, AJAX, jQuery, Bootstrap.
+- **Databases:** SQL, MySQL, MongoDB, PostgreSQL
+- **Miscellaneous:** AWS, Git, Kafka, Docker
+- **Development Tools:** Eclipse, IntelliJ, NetBeans, MS Visio, Apache Maven, Gradle, Log4J, JIRA, Bugzilla.
+
+![image](https://github.com/user-attachments/assets/3328c5bd-aff7-4777-baea-aff132ccce02)
+
 
 ### 📚 Featured Projects:
 - [Project 1](https://github.com/BSindhura/bear_mama_admin): A backend application built with Spring Boot.
